@@ -1,5 +1,5 @@
-google-genai==0.3.0
-numpy==1.26.4
+google-genai
+numpy
 streamlit
 tensorflow
 tf-keras
