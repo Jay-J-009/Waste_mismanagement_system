@@ -1,0 +1,4 @@
+0 Dry(Plastic/Metal)
+1 Wet
+2 Paper
+3 Hazardous
