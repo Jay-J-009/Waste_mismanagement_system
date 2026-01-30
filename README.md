@@ -2,13 +2,13 @@
 
 Hello guys! This is an AI-trained model which is designed to identify the type of waste that is being shown to the device and give appropriate instructions about its disposal(plus an additional fact!). It aims to promote responsible waste segregation and sustainability within educational campuses.
 
-🎯 Objectives -
+Objectives -
 1. To classify waste into Paper, Plastic, Organic, and Hazardous
 2. To encourage correct waste disposal using bin color guidance
 3. To spread environmental awareness through AI-generated facts
 4. To support sustainable campus initiatives
 
-🧠 Features -
+Features -
 1. Real-time waste capture using webcam (Streamlit camera)
 2. Deep learning image classification (TensorFlow/Keras)
 3. Waste categories with clear labels
@@ -16,7 +16,7 @@ Hello guys! This is an AI-trained model which is designed to identify the type o
 5. AI-generated environmental impact facts (Gemini API)
 6. Simple and interactive web interface
 
-🛠️ Technologies Used -
+Technologies Used -
 1. Python
 2. Streamlit
 3. TensorFlow / Keras
@@ -37,4 +37,5 @@ Steps followed in the project -
 10. Version Control & Deployment : Used Git and GitHub to manage code and prepare the project for submission.
 
 Author : Jay J
+
 NOTE : This project is intended for educational and academic uses.
